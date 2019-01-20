@@ -1,0 +1,8 @@
+h1#helloMethod {
+    font-size: 50px;
+    font-weight: bold;
+    color: blueviolet;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
